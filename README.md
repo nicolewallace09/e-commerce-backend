@@ -19,6 +19,7 @@ The user should clone the repository from GitHub. This application requires Node
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
 View video to see MySQL walk through via [Screencastify](https://drive.google.com/file/d/1rGknm_dCHlzDqsICb5eWbsOfmPPLq0q5/view)<br>
+View video to walk through of the API routes. [Screencastify](https://drive.google.com/file/d/1KDgDctcv66DZwJ4sRQ25_R7aBmImfU5y/view)<br>
 View video to see Insomnia walk through via [Screencastify](https://drive.google.com/file/d/19GbrbxORiqPIEN0aaUVtRSq8gyA8yN_B/view)
 
 ## License 
